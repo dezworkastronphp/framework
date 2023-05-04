@@ -1,11 +1,11 @@
 {
-    "name": "astronphp/framework",
+    "name": "dezworkastronphp/framework",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/astronphp/framework/issues",
-        "source": "https://github.com/astronphp/framework/"
+        "issues": "https://github.com/dezworkastronphp/framework/issues",
+        "source": "https://github.com/dezworkastronphp/framework/"
     },
     "config": {
         "sort-packages": true
