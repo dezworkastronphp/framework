@@ -1,0 +1,24 @@
+{
+    "name": "astronphp/framework",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/astronphp/framework/issues",
+        "source": "https://github.com/astronphp/framework/"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "php": ">=7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Astronphp\\": [
+                "src/",
+                "tests/"
+            ]
+        }
+    }
+}
